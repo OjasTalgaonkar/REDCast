@@ -1,0 +1,12 @@
+# C++
+core/build/
+*.o
+*.exe
+
+# Go
+network/bin/
+vendor/
+
+# OS
+.DS_Store
+.vscode/
